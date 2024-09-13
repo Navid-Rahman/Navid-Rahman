@@ -1,4 +1,4 @@
-### 💫 Hi, I am Navid Rahman
+## 💫 Hi, I am Navid Rahman
 💻 Software Engineer sharing about my journey and learnings in tech<br><br>🎓 Studied Computer Science at East West University, Dhaka, Bangladesh<br><br>🌟 Passionate about exploring new programming languages and tackling fresh challenges<br><br>🔍 Currently learning about iOS app development<br><br>🍔 A foodie at heart who loves great culinary experiences. Let’s connect and chat about tech or food! 🌮🥗
 
 
