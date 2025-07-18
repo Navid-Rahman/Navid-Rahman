@@ -69,12 +69,12 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Navid-Rahman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid-Rahman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Navid-Rahman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Navid-Rahman&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navid-Rahman&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Navid-Rahman&theme=github_dark&hide_border=true"/>
 </div>
 
 ## 🏆 **GitHub Trophies**
@@ -99,7 +99,7 @@
 
 **Open to collaboration and learning opportunities!**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Navid-Rahman&icon=2&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Navid-Rahman&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
